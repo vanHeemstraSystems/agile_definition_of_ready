@@ -6,3 +6,7 @@ agile_definition_of_ready
 Based on [Agile Story Template](https://github.com/vanHeemstraSystems/agile-story-template)
 
 See [AGILE_DEFINITION_OF_READY_TEMPLATE.md](./AGILE_DEFINITION_OF_READY_TEMPLATE.md)
+
+## Example for Threagile:
+
+MORE
